@@ -10,7 +10,7 @@ This project is a gas leakage and environmental monitoring system using Arduino 
 - I2C LCD (16x2)
 - RTC_DS3231 Module
 - Breadboard.
-- Buzzer(optional)
+- Buzzer and a small Exhaust fan(optional)
 
 ## Photos
 ![WhatsApp Image 2024-08-03 at 18 50 12_d9a99bb4](https://github.com/user-attachments/assets/bc7b0297-0cbb-484c-950f-8163fb2048b4)
