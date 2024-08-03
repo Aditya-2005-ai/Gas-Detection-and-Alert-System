@@ -1,5 +1,5 @@
 # Gas-Detection-and-Alert-System
-# Gas Leakage Detection System
+# Gas Monitoring and Leakage Detection System
 
 This project is a gas leakage and environmental monitoring system using Arduino Nano, MQ2 gas sensor, I2C LCD, and RTC module. It is designed to detect LPG, CO, and smoke levels in its environment and provide time-stamped alerts if a gas leak is detected.
 
