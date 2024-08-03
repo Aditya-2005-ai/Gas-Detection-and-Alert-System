@@ -13,7 +13,7 @@ This project is a gas leakage and environmental monitoring system using Arduino 
 - Buzzer(optional)
 
 ## Photos
-[![WhatsApp Image 2024-08-03 at 18 50 12_d9a99bb4](https://github.com/user-attachments/assets/bc7b0297-0cbb-484c-950f-8163fb2048b4)
+![WhatsApp Image 2024-08-03 at 18 50 12_d9a99bb4](https://github.com/user-attachments/assets/bc7b0297-0cbb-484c-950f-8163fb2048b4)
 
 ![WhatsApp Image 2024-08-03 at 19 59 50_1df91f56](https://github.com/user-attachments/assets/3a8c49ad-7eb4-4a97-a7cc-b8e26aa3ecfd)
 
